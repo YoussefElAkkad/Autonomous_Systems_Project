@@ -1,6 +1,6 @@
 # Autonomous_Systems_Project
 Project for "(|MCTR1002|) Autonomous System"-- Simulation and hardware for an autonomous car 
-
+  
 This project seeks to assess understanding of autonomous systems covered in the course by simulating and implementing hardware, culminating in the creation of an integrated autonomous system. Specifically, we will focus on developing a ground-based wheeled vehicle with both drive and steering capabilities, employing Ackermann steering principles.  
 
 Project members(names : email):    
