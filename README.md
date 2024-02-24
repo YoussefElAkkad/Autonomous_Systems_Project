@@ -6,7 +6,7 @@ This project seeks to assess understanding of autonomous systems covered in the 
 Project members(names : email):    
 1) Ahmed Yasser : ahmedys2010@gmail.com  
 2) Youssef Tamer : eng.yousseftamer2001@gmail.com  
-3) Dina: dina67724@gmail.com  
+3) Dina Mohamed: dina67724@gmail.com  
 4) Ahmed Sleem : ahmedsleem.mail@gmail.com  
 5) Marwa Lotfy : marwalotfy410@gmail.com  
 6) Kareem Emad : karim.emad.adam@gmail.com  
