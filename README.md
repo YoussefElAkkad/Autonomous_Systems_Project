@@ -15,5 +15,5 @@ Project members(names : email):
 9) Abdelfattah :
 10) Abdelrahman : abdelrahman.aboelnasr01@gmail.com
 
-This project is built upon the ackermann vehicle model developed hdh7485  
+This project is built upon the ackermann vehicle model developed by user hdh7485  
 Link to original version of the ackermann vehicle model: https://github.com/hdh7485/ackermann_vehicle.git
